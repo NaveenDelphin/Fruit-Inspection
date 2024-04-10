@@ -5,7 +5,7 @@ Open each task folder in a separate window. I don't know why but if opened in th
 
 under Task one Folder, FirstTask.py is the file you need to run!
 
-In Task two Folder, SecondTaskUpdated.py is the one that gives the best output so run that!
+In Task two Folder, SecondTaskUpdated.py is the one that gives the best output so run that!*Pay attention to the contents displayed on the terminal!! it lets u know what to do*
 
 For Task Final Folder, It's the finalTask.py.
 
